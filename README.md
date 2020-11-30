@@ -6,6 +6,9 @@ Almost all my repos are projects made 4 fun without any practical usage.
 **My Rust crates:** 
  - [random-string](https://github.com/DmitrijVC/random-string)
 
+**Rust Ports:**
+ - [OpenSMTPD](https://github.com/DmitrijVC/OpenSMTPD-RS)
+
 **Game "Cheats":**
  - [RogueCompany](https://github.com/DmitrijVC/RogueCompany-SoftCheats)
  - [Intralism](https://github.com/DmitrijVC/Intralism-SoftCheats)
@@ -15,6 +18,8 @@ Almost all my repos are projects made 4 fun without any practical usage.
  - [NitroCodeGenerator](https://github.com/DmitrijVC/SomeShittyPythonScript)
  - [TokenGrabber for GMS](https://github.com/DmitrijVC/GMS-DCTokenGrabber)
  - [Server Duplicator](https://github.com/DmitrijVC/Discord-CopyPaste2)
+
+
 
 **Now I am working on:**
  - Abyss - closed source game engine for personal usage  
