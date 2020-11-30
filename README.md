@@ -3,7 +3,7 @@
 
 Almost all my repos are projects made 4 fun without any practical usage.
 
-**My Rust crates:** 
+**Rust crates:** 
  - [random-string](https://github.com/DmitrijVC/random-string)
 
 **Rust Ports:**
