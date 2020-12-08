@@ -6,7 +6,7 @@ Almost all my repos are projects made 4 fun without any practical usage.
 **Rust crates:** 
  - [random-string](https://github.com/DmitrijVC/random-string)
 
-**Rust Ports:**
+**Rust Ports/Rewrites:**
  - [OpenSMTPD](https://github.com/DmitrijVC/OpenSMTPD-RS)
 
 **Game "Cheats":**
