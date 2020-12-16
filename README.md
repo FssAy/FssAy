@@ -25,7 +25,7 @@ Almost all my repos are projects made 4 fun without any practical usage.
  - Abyss - closed source game engine for personal usage  
 
 **Technologies that I love:** <br>
-  <img alt="Redis" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width=50px> <img alt="Rust" src="https://i.imgur.com/HxFzl0X.png" width=50px> 
+  <img alt="Redis" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width=50px> <img alt="Rust" src="https://i.imgur.com/HxFzl0X.png" width=55px> 
 
 <br>
 
