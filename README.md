@@ -12,6 +12,7 @@ Almost all my repos are projects made 4 fun without any practical usage.
 **Game "Cheats":**
  - [RogueCompany](https://github.com/DmitrijVC/RogueCompany-SoftCheats)
  - [Intralism](https://github.com/DmitrijVC/Intralism-SoftCheats)
+ - NFS World (soon) (maybe) (idk) (probably never)
  
 **Discord projects:**
  - [Backdoor](https://github.com/DmitrijVC/DataCargo) *(It's pretty bad)*
