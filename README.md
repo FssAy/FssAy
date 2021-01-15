@@ -10,14 +10,14 @@ Almost all my repos are projects made 4 fun without any practical usage.
  - [OpenSMTPD](https://github.com/DmitrijVC/OpenSMTPD-RS)
 
 **Game "Cheats":**
- - [RogueCompany](https://github.com/DmitrijVC/RogueCompany-SoftCheats)
- - [Intralism](https://github.com/DmitrijVC/Intralism-SoftCheats)
+ - [RogueCompany](https://github.com/DmitrijVC/RogueCompany-SoftCheats) *(Deprecated)*
+ - [Intralism](https://github.com/DmitrijVC/Intralism-SoftCheats) *(Contact me for more powerfull version + multiplayer support)*
  
 **Discord projects:**
- - [Backdoor](https://github.com/DmitrijVC/DataCargo) *(It's pretty bad)*
- - [NitroCodeGenerator](https://github.com/DmitrijVC/SomeShittyPythonScript)
- - [TokenGrabber for GMS](https://github.com/DmitrijVC/GMS-DCTokenGrabber)
- - [Server Duplicator](https://github.com/DmitrijVC/Discord-CopyPaste2)
+ - [Backdoor](https://github.com/DmitrijVC/DataCargo) *(Archived, It's very bad)*
+ - [NitroCodeGenerator](https://github.com/DmitrijVC/SomeShittyPythonScript) *(Useles)*
+ - [TokenGrabber for GMS](https://github.com/DmitrijVC/GMS-DCTokenGrabber) *(Archived, one of the first projects in Rust)*
+ - [Server Duplicator](https://github.com/DmitrijVC/Discord-CopyPaste2) *(Deprecated)*
 
 
 
