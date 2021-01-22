@@ -1,6 +1,7 @@
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DmitrijVC.DmitrijVC" />
 
+Add me on DC: FssAy#3564 [701563061735129138] [click](https://discord.com/users/701563061735129138)
 Almost all my repos are projects made 4 fun without any practical usage.
 
 **Rust crates:** 
