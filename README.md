@@ -28,7 +28,7 @@ Almost all my repos are projects made 4 fun without any practical usage.
  - RustWipe - website to check out newly wiped servers
 
 **Technologies that I love:** <br>
-  <img alt="Redis" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width=50px> <img alt="Rust" src="https://i.imgur.com/HxFzl0X.png" width=55px> <img alt="Hyper" src="https://hyper.rs/icons/favicon.ico" width=50px> 
+  <img alt="Redis" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width=50px> <img alt="Rust" src="https://i.imgur.com/HxFzl0X.png" width=55px>
 
 <br>
 
