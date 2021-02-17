@@ -37,7 +37,7 @@ Almost all my repos are projects made 4 fun without any practical usage.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrijvc&hide=yacc,c%23&count_private=false&title_color=fff&text_color=fff&icon_color=fff&langs_count=9&theme=onedark" alt="dmitrijvc" />
 
-<!--
+<!-- 
 &bg_color=30,e96443,904e95 
 <img src="https://github-readme-stats.vercel.app/api?username=dmitrijvc&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="dmitrijvc" /> 
 -->
