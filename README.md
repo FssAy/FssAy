@@ -1,46 +1,71 @@
+<!--<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DmitrijVC.DmitrijVC" />-->
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DmitrijVC.DmitrijVC" />
+<h2 align="center">Stats:</h3>
+<p align="center">
+ <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=DmitrijVC&style=--header-bg-color:%23282c34;--border-radius:10px;--bg-color:%23222428;--header-text-color:%23e3c080;--badge-bg-color:%23282c34;--badge-text-color:%23dd6b76;--branding-text-color:%23000;--border:hidden;--border-color-0" width="50%", style="color:#ffffff">
 
-Add me on DC: FssAy#3564 [701563061735129138] [click](https://discord.com/users/701563061735129138) <br>
-Almost all my repos are projects made 4 fun without any practical usage.
+</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&no-bg=false"></p>
+<br>
 
-**Rust crates:** 
- - [random-string](https://github.com/DmitrijVC/random-string)
+<!--
+<h2 align="center">Technologies:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrijvc&hide=yacc,c%23&count_private=false&title_color=fff&text_color=fff&icon_color=fff&langs_count=9&theme=onedark">
+</p>
+-->
 
-**Rust Ports/Rewrites:**
- - [OpenSMTPD](https://github.com/DmitrijVC/OpenSMTPD-RS)
 
-**Game "Cheats":**
- - [RogueCompany](https://github.com/DmitrijVC/RogueCompany-SoftCheats) *(Deprecated)*
- - [Intralism](https://github.com/DmitrijVC/Intralism-SoftCheats) *(Contact me for more powerfull version + multiplayer support)*
+<h2 align="center">Projects:</h3>
+<dl align="center">
+  <dt>Rust crates</dt>
+  <dd>- <a href="https://github.com/DmitrijVC/random-string">random-string</a></dd>
  
-**Discord projects:**
- - [Backdoor](https://github.com/DmitrijVC/DataCargo) *(Archived, It's very bad)*
- - [NitroCodeGenerator](https://github.com/DmitrijVC/SomeShittyPythonScript) *(Useles)*
- - [TokenGrabber for GMS](https://github.com/DmitrijVC/GMS-DCTokenGrabber) *(Archived, one of the first projects in Rust)*
- - [Server Duplicator](https://github.com/DmitrijVC/Discord-CopyPaste2) *(Deprecated)*
-
-
-
-**Now I am working on:**
- - StarLogger - ~~closed source keylogger with an online compiler~~ (on hold, almost ready, but no motivation to finish)
- - Abyss - ~~closed source game engine for personal usage~~ (on hold, probabbly won't be useful)
- - RustWipe - website to check out newly wiped servers
- - [UltraSC](https://www.ultrasc.tk) - temporary image hosting service
-
-**Technologies that I love:** <br>
-  <img alt="Redis" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width=50px> <img alt="Rust" src="https://i.imgur.com/HxFzl0X.png" width=55px>
-
+  <br>
+ 
+  <dt>Rust Ports/Rewrites</dt>
+  <dd>- <a href="https://github.com/DmitrijVC/OpenSMTPD-RS">OpenSMTPD</a></dd>
+ 
+  <br>
+ 
+  <dt>Game "Cheats"</dt>
+  <dd>- <a href="https://github.com/DmitrijVC/RogueCompany-SoftCheats">RogueCompany (Deprecated)</a></dd>
+  <dd>- <a href="https://github.com/DmitrijVC/Intralism-SoftCheats">Intralism (Only Py version)</a></dd>
+  
+  <br>
+  
+  <dt>Discord projects</dt>
+  <dd>- <a href="https://github.com/DmitrijVC/SomeShittyPythonScript">NitroCodeGenerator (Useles)</a></dd>
+  <dd>- <a href="https://github.com/DmitrijVC/GMS-DCTokenGrabber">TokenGrabber for GMS (Archived)</a></dd>
+  <dd>- <a href="https://github.com/DmitrijVC/Discord-CopyPaste2">Server Duplicator (Deprecated)</a></dd>
+  
+  <br>
+  
+  <dt>Now I am working on</dt>
+  <dd>- <a href="https://www.ultrasc.tk">UltraSC [temporary image hosting]</a></dd>
+</dl>
 <br>
 
+<h2 align="center">Media:</h3>
+<p align="center">
+ <a href="https://discord.com/users/701563061735129138" target="blank" align="center">
+   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" height="50px"></a>
+ ­  ­  ­  ­  ­  ­
+ <a href="https://www.youtube.com/channel/UCEZldJd_PnSkqVPPGjuH4SA" target="blank" align="center">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" height="50px"></a>
+</p>
 <br>
+ 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrijvc&hide=yacc,c%23&count_private=false&title_color=fff&text_color=fff&icon_color=fff&langs_count=9&theme=onedark" alt="dmitrijvc" />
+
+
+
+
 
 <!-- 
 &bg_color=30,e96443,904e95 
 <img src="https://github-readme-stats.vercel.app/api?username=dmitrijvc&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="dmitrijvc" /> 
 -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&no-bg=true">
+
 
