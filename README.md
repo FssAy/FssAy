@@ -20,6 +20,11 @@
  
   <br>
  
+  <dt>Apps</dt>
+  <dd>- <a href="https://github.com/DmitrijVC/steam-blocker">Steam Blocker</a></dd>
+ 
+  <br>
+ 
   <dt>Game "Cheats"</dt>
   <dd>- <a href="https://github.com/DmitrijVC/RogueCompany-SoftCheats">RogueCompany (Deprecated)</a></dd>
   <dd>- <a href="https://github.com/DmitrijVC/Intralism-SoftCheats">Intralism (Only Py version)</a></dd>
