@@ -10,8 +10,9 @@
 
 <h2 align="center">Projects:</h3>
 <dl align="center">
-  <dt>Rust crates</dt>
+  <dt>Rust libs</dt>
   <dd>- <a href="https://github.com/DmitrijVC/random-string">random-string</a></dd>
+  <dd>- <a href="https://github.com/DmitrijVC/command-engine">command-engine</a></dd>
  
   <br>
  
