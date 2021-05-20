@@ -13,6 +13,7 @@
   <dt>Rust libs</dt>
   <dd>- <a href="https://github.com/DmitrijVC/random-string">random-string</a></dd>
   <dd>- <a href="https://github.com/DmitrijVC/command-engine">command-engine</a></dd>
+  <dd>- <a href="https://github.com/DmitrijVC/strenc">strenc</a></dd>
  
   <br>
  
