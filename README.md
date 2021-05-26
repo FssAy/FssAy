@@ -15,6 +15,7 @@
   <dd>- <a href="https://github.com/DmitrijVC/command-engine">command-engine</a></dd>
   <dd>- <a href="https://github.com/DmitrijVC/strenc">strenc</a></dd>
   <dd>- <a href="https://github.com/DmitrijVC/dll-injector">dll-injector</a></dd>
+  <dd>- <a href="https://github.com/DmitrijVC/file-loader">file-loader</a></dd>
  
   <br>
  
