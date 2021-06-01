@@ -62,7 +62,7 @@
  
 <h2 align="center">Stats:</h3>
 <p align="center">
- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=DmitrijVC&style=--header-bg-color:%23282c34;--border-radius:10px;--bg-color:%23222428;--header-text-color:%23e3c080;--badge-bg-color:%23282c34;--badge-text-color:%23dd6b76;--branding-text-color:%23000;--border:hidden;--border-color-0" width="50%", style="color:#ffffff">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrijVC&count_private=true&hide=html,yacc,FreeMarker,Brainfuck&exclude_repo=Intralism-rawAssemblyCSharp,test-0312&layout=compact&theme=tokyonight" />
 </p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
 <br>
