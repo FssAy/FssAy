@@ -57,6 +57,9 @@
    ­  ­  ­  ­  ­  ­
    <a href="https://onlyfans.com/fssay" target="blank" align="center">
    <img src="https://img.apksum.com/84/com.very.onlyfans/1.04/icon.png" height="50px"></a>
+  <br>
+  <br>
+  <img src="https://lanyard-profile-readme.vercel.app/api/701563061735129138" align="center">
 </p>
 <br>
  
