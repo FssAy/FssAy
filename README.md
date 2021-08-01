@@ -7,7 +7,6 @@
 </p>
 -->
 
-
 <h2 align="center">Projects:</h3>
 <dl align="center">
   <dt>Rust libs</dt>
@@ -16,7 +15,8 @@
   <dd>- <a href="https://github.com/DmitrijVC/strenc">strenc</a></dd>
   <dd>- <a href="https://github.com/DmitrijVC/dll-injector">dll-injector</a></dd>
   <dd>- <a href="https://github.com/DmitrijVC/file-loader">file-loader</a></dd>
- 
+  <dd>- <a href="https://github.com/VulcoLibs/mem-map">mem-map</a></dd>
+	
   <br>
  
   <dt>Rust Ports/Rewrites</dt>
@@ -32,6 +32,7 @@
   <dt>Game "Cheats"</dt>
   <dd>- <a href="https://github.com/DmitrijVC/RogueCompany-SoftCheats">RogueCompany (Deprecated)</a></dd>
   <dd>- <a href="https://github.com/DmitrijVC/Intralism-SoftCheats">Intralism (Only Py version)</a></dd>
+  <dd>- <a href="https://github.com/DmitrijVC/tfm-password-grabber">Transformice (Password Grabber)</a></dd>
   
   <br>
   
