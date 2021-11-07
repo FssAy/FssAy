@@ -7,6 +7,7 @@
 </p>
 -->
 
+<!--
 <h2 align="center">Projects:</h3>
 <dl align="center">
   <dt>Rust libs</dt>
@@ -47,6 +48,7 @@
   <dd>- <a href="https://www.ultrasc.tk">UltraSC [temporary image hosting]</a></dd>
 </dl>
 <br>
+-->
 
 <h2 align="center">Skills:</h2>
 
