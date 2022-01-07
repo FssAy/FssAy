@@ -1,56 +1,12 @@
-<!--<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DmitrijVC.DmitrijVC" />-->
+<h2 align="center">
+	<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/800px-Mitsubishi_logo.svg.png">
+</h2>
 
-<!--
-<h2 align="center">Technologies:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrijvc&hide=yacc,c%23&count_private=false&title_color=fff&text_color=fff&icon_color=fff&langs_count=9&theme=onedark">
+	<img align="center" width="100%" src="https://cdn.discordapp.com/banners/701563061735129138/7636b81957757cdd41095e69d320d49c.png?size=600" />
 </p>
--->
 
-<!--
-<h2 align="center">Projects:</h3>
-<dl align="center">
-  <dt>Rust libs</dt>
-  <dd>- <a href="https://github.com/DmitrijVC/random-string">random-string</a></dd>
-  <dd>- <a href="https://github.com/VulcoLibs/command-engine">command-engine</a></dd>
-  <dd>- <a href="https://github.com/DmitrijVC/strenc">strenc</a></dd>
-  <dd>- <a href="https://github.com/DmitrijVC/dll-injector">dll-injector</a></dd>
-  <dd>- <a href="https://github.com/DmitrijVC/file-loader">file-loader</a></dd>
-  <dd>- <a href="https://github.com/VulcoLibs/mem-map">mem-map</a></dd>
-	
-  <br>
- 
-  <dt>Rust Ports/Rewrites</dt>
-  <dd>- <a href="https://github.com/DmitrijVC/OpenSMTPD-RS">OpenSMTPD</a></dd>
- 
-  <br>
- 
-  <dt>Apps</dt>
-  <dd>- <a href="https://github.com/DmitrijVC/steam-blocker">Steam Blocker</a></dd>
- 
-  <br>
- 
-  <dt>Game "Cheats"</dt>
-  <dd>- <a href="https://github.com/DmitrijVC/RogueCompany-SoftCheats">RogueCompany (Deprecated)</a></dd>
-  <dd>- <a href="https://github.com/DmitrijVC/Intralism-SoftCheats">Intralism (Only Py version)</a></dd>
-  <dd>- <a href="https://github.com/DmitrijVC/tfm-password-grabber">Transformice (Password Grabber)</a></dd>
-  
-  <br>
-  
-  <dt>Discord projects</dt>
-  <dd>- <a href="https://github.com/DmitrijVC/SomeShittyPythonScript">NitroCodeGenerator (Useles)</a></dd>
-  <dd>- <a href="https://github.com/DmitrijVC/GMS-DCTokenGrabber">TokenGrabber for GMS (Archived)</a></dd>
-  <dd>- <a href="https://github.com/DmitrijVC/Discord-CopyPaste2">Server Duplicator (Deprecated)</a></dd>
-  
-  <br>
-  
-  <dt>Now I am working on</dt>
-  <dd>- <a href="https://www.ultrasc.tk">UltraSC [temporary image hosting]</a></dd>
-</dl>
-<br>
--->
-
-<h2 align="center">Skills:</h2>
+<h2 align="center">Technologies:</h2>
 
 <p align="center"><i>From more favourite to less</i></p>
 <table style="width:100%" align="center">
