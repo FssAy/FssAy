@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-	<img align="center" width="100%" src="https://cdn.discordapp.com/banners/701563061735129138/7636b81957757cdd41095e69d320d49c.png?size=600" />
+	<img align="center" width="60%" src="https://cdn.discordapp.com/attachments/996468976488038440/1002238888363950080/FCVO.jpg" />
 </p>
 
 <h2 align="center">Technologies:</h2>
