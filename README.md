@@ -48,37 +48,57 @@
   </tr>
 </table>
 
-
-<h2 align="center">Media:</h3>
+ 
+<!--- stats & Trophy (start) -->
+<h2 align="center">Stats:</h3>
 <p align="center">
- <a href="https://discord.com/users/701563061735129138" target="blank" align="center">
-   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" height="50px"></a>
- ­  ­  ­  ­  ­  ­
- <a href="https://www.youtube.com/channel/UCEZldJd_PnSkqVPPGjuH4SA" target="blank" align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" height="50px"></a>
-   ­  ­  ­  ­  ­  ­
-   <a href="https://onlyfans.com/fssay" target="blank" align="center">
-   <img src="https://img.apksum.com/84/com.very.onlyfans/1.04/icon.png" height="50px"></a>
-  <br>
-  <br>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dmitrijvc&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DmitrijVC&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DmitrijVC&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=html,yacc,FreeMarker,Brainfuck&exclude_repo=Intralism-rawAssemblyCSharp,test-0312"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=DmitrijVC&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>       
+<br>
+<br>
+<!--- stats (end) -->
+
+
+<!--- status (start)
+<h2 align="center">Status:</h3>
+<p align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/701563061735129138" align="center">
 </p>
 <br>
- 
-<h2 align="center">Stats:</h3>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrijVC&count_private=true&hide=html,yacc,FreeMarker,Brainfuck&exclude_repo=Intralism-rawAssemblyCSharp,test-0312&layout=compact&theme=tokyonight" />
-</p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
-<br>
-
-
-
+status (end) -->
 
 
 
 <!-- 
 &bg_color=30,e96443,904e95 
+          https://github-readme-stats.vercel.app/api?username=dmitrijvc&theme=dark&show_icons=true&count_private=true
 <img src="https://github-readme-stats.vercel.app/api?username=dmitrijvc&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="dmitrijvc" /> 
 -->
 
