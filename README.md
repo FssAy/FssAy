@@ -1,9 +1,42 @@
 <h2 align="center">
-	<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/800px-Mitsubishi_logo.svg.png">
+	<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Mitsubishi_logo.svg"> Garage:
 </h2>
 
 <p align="center">
-	<img align="center" width="60%" src="https://i.imgur.com/mc2Wlls.jpeg" />
+	<table style="width:100%" align="center">
+	  <tr>
+	    <th>Model</th>
+	  	<th>Trim</th>
+		<th>Market</th>
+	  	<th>Year</th>
+	    <th>Engine</th>
+	    <th>Power</th>
+	  </tr>
+	  <tr>
+	  	<td>Lancer</td>
+		<td>VIII Inform</td>
+		<td>EUDM</td>
+		<td>2009</td>
+		<td>4B10</td>
+		<td>140HP</td>
+	  </tr>
+	  <tr>
+	  	<td>Lancer</td>
+		<td>Evo X GSR</td>
+		<td>EUDM</td>
+		<td>2012</td>
+		<td>4B11T</td>
+		<td>400HP</td>
+	  </tr>
+	  <tr>
+	  	<td>Lancer</td>
+		<td>Evo IV GSR</td>
+		<td>JDM</td>
+		<td>1992</td>
+		<td>4G63T</td>
+		<td>280HP</td>
+	  </tr>
+	</table>
 </p>
 
 <h2 align="center">Technologies:</h2>
