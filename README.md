@@ -16,9 +16,17 @@
 	  	<td>Lancer</td>
 		<td>VIII Inform</td>
 		<td>EUDM</td>
-		<td>2009</td>
+		<td>2010</td>
 		<td>4B10</td>
 		<td>140HP</td>
+	  </tr>
+	  <tr>
+	  	<td>Lancer</td>
+		<td>Ralliart</td>
+		<td>USDM</td>
+		<td>2012</td>
+		<td>4B11T</td>
+		<td>240HP</td>
 	  </tr>
 	  <tr>
 	  	<td>Lancer</td>
